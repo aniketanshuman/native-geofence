@@ -2,8 +2,9 @@
 
 
 ## Installation
- 
-  cd native-geofence
+```bash
+ git clone https://github.com/aniketanshuman/native-geofence.git
+  cd native-geofence 
   yarn install
 // <or with npm>
   npm install
